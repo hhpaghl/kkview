@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: ccwb
+Build-Jdk: 1.8.0_111
+Class-Path: commons-io-1.4.jar juh-3.2.1.jar jurt-3.2.1.jar ridl-3.2.1
+ .jar unoil-3.2.1.jar commons-cli-1.1.jar sigar-1.6.5.132.jar json-200
+ 90211.jar
+Main-Class: org.artofsolving.jodconverter.cli.Convert
+Created-By: Maven Integration for Eclipse
+
